@@ -22,8 +22,8 @@ Verifique se:
 
 Verifique se:
 
-- as células que constituem os cabeçalhos da tabela estão marcadas com o elemento ´<th>´?
-- o título da tabela está marcado com o elemento ´<caption>´?
+- as células que constituem os cabeçalhos da tabela estão marcadas com o elemento `<th>`?
+- o título da tabela está marcado com o elemento `<caption>`?
 
 ## 4. Formulários
 
@@ -37,8 +37,8 @@ Verifique se:
 
 Verifique se:
 
-- a imagem ou gráfico tem uma legenda curta (i.e. atributo ´alt´)? 
-- o gráfico é acompanhado de uma descrição longa (p.e. tabela dados que deu origem ao gráfico)?
+- a imagem ou gráfico tem uma legenda curta (i.e. atributo `alt`)? 
+- o gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?
 - as imagens-link estão corretamente legendadas?
 
 ## 6. Contraste
@@ -53,7 +53,7 @@ Verifique se:
 
 Verifique se:
 
-- é possível navegar com rato e com teclado através dos botões do leitor (_player_{lang="en"})?
+- é possível navegar com rato e com teclado através dos botões do leitor (_player_{lang=en})?
 - o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
 
 ## 8. Estrutura da página
