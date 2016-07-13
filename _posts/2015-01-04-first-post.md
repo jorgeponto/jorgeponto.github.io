@@ -52,7 +52,7 @@ Verifique se:
 
 Verifique se:
 
-- é possível navegar com rato e com teclado através dos botões do leitor (_player {:lang=en}_)?
+- é possível navegar com rato e com teclado através dos botões do leitor (_player_ {:lang=en})?
 - o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
 
 ## 8. Estrutura da página
@@ -71,10 +71,12 @@ Verifique se:
 
 - a página não tem erros de (x)HTML?
 
-## 10. Ficheiros _PDF - Portable Document Format_{lang="en"}
+## 10. Ficheiros PDF
 
 Verifique se:
 
 - usando a aplicação Adobe Reader, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
+- 
+*[PDF]: Portable Document Format
 
 
