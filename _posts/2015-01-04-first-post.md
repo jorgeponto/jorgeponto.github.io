@@ -52,7 +52,7 @@ Verifique se:
 
 Verifique se:
 
-- é possível navegar com rato e com teclado através dos botões do leitor (_player_ {:lang=en})?
+- é possível navegar com rato e com teclado através dos botões do leitor (<em lang="en">player</em>)?
 - o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
 
 ## 8. Estrutura da página
@@ -63,7 +63,7 @@ Verifique se:
 - quando se retira a CSS, a informação aparece numa ordem lógica?
 - quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos e que não existe desfragmentação dos mesmos?
 - quando se retira a CSS, a informação relevante permanece visível?
-- a maquetização da página não é feita através do elemento ´<table>´?
+- a maquetização da página não é feita através do elemento `<table>`?
 
 ## 9. Gramática (x)HTML
 
@@ -71,7 +71,7 @@ Verifique se:
 
 - a página não tem erros de (x)HTML?
 
-## 10. Ficheiros PDF
+## 10. Ficheiros PDF - <em lang="en">Portable Document Format</em>
 
 Verifique se:
 
