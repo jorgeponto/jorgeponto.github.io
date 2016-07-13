@@ -15,7 +15,7 @@ Verifique se:
 
 Verifique se:
 
-- existe um ´<h1>´ marcado na página?
+- existe um `<h1>` marcado na página?
 - existe uma marcação hierarquizada de cabeçalhos na página (´<h1>...<h6>´)?
 
 ## 3. Tabela de dados
