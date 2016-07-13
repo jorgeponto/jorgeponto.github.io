@@ -47,13 +47,12 @@ Verifique se:
 
 - para texto com tamanho normal, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 4,5:1?
 - para texto com tamanho grande, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 3:1?
-- 
 
 ## 7. Leitores de vídeo e/ou áudio
 
 Verifique se:
 
-- é possível navegar com rato e com teclado através dos botões do leitor (_player_{: lang=en})?
+- é possível navegar com rato e com teclado através dos botões do leitor (_player {:lang=en}_)?
 - o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
 
 ## 8. Estrutura da página
