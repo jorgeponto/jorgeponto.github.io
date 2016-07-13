@@ -53,7 +53,7 @@ Verifique se:
 
 Verifique se:
 
-- é possível navegar com rato e com teclado através dos botões do leitor (_player_{lang=en})?
+- é possível navegar com rato e com teclado através dos botões do leitor (_player_{: lang=en})?
 - o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
 
 ## 8. Estrutura da página
@@ -76,6 +76,6 @@ Verifique se:
 
 Verifique se:
 
-- usando a aplicação AdobeReader, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
+- usando a aplicação Adobe Reader, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
 
 
