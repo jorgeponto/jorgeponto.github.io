@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 10 aspetos críticos de acessibilidade em conteúdos Web
+title: Acessibilidade Web - lista de verificação manual
+subtitle: 10 aspetos críticos na construção de sítios Web
 ---
 
 ## 1. Menu de navegação principal
