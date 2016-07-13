@@ -32,7 +32,7 @@ Verifique se:
 - ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?
 - é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?
 - é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?
-- 
+
 ## 5. Gráficos e imagens-link
 
 Verifique se:
