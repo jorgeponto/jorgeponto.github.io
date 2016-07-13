@@ -75,8 +75,4 @@ Verifique se:
 
 Verifique se:
 
-- usando a aplicação Adobe Reader, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
-- 
-*[PDF]: Portable Document Format
-
-
+- usando a aplicação <em lang="en">Adobe Reader</em>, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
