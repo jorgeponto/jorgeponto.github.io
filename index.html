@@ -1,29 +1,29 @@
 ---
 layout: page
 title: A12e
-subtitle: Este blogue é um bloco de notas de Jorge Fernandes
+subtitle: Blogue de notas de Jorge Fernandes
 ---
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    
+	  <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
 	  {% endif %}
-    </a>
+    
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Publicado em {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
     <div class="post-entry">
       {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+	  <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" class="post-read-more">[Ler&nbsp;mais]</a>
     </div>
 
    </article>
@@ -34,12 +34,12 @@ subtitle: Este blogue é um bloco de notas de Jorge Fernandes
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Artigos mais recentes</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Artigos mais antigos &rarr;</a>
   </li>
   {% endif %}
 </ul>
