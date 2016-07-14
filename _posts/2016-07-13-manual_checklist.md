@@ -3,13 +3,11 @@ layout: post
 title: Acessibilidade Web
 subtitle: 10 aspetos críticos na construção de sítios Web
 ---
-É recorrente a queixa de que o documento das Diretrizes de Acessibilidade para Conteúdo Web do W3C, bem como toda a documentação de suporte, é de difícil leitura. Há quem diga que a versão 2.0, publicada em dezembro de 2008, ficou mais fácil de ler. Outros, dizem que, antes pelo contrário. Os 4 princípios, as 12 diretrizes, os 61 critérios de sucesso agrupados em 3 níveis de prioridade e as mais de 350 técnicas organizadas em 2 categorias e subdivididas por tecnologia, é cansativo, para não não dizer aborrecido, mesmo só de enumerar. :-)
-
-Esta nossa constante insatisfação com a complexidade e necessidade permanente para organizar o caos faz-nos questionar se não haverá uma forma mais simples de abordar as questões da acessibilidade Web. No presente documento selecionámos 10 aspetos que se revelaram, em estudos efetuados, de críticos na acessibilidade aos conteúdos pelos utilizadores com limitações funcionais.
+No presente documento selecionámos 10 aspetos que se revelaram, em análises efetuadas, de críticos na acessibilidade aos conteúdos pelos utilizadores com limitações funcionais.
 
 ## 1. Menu de navegação principal
 
-O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguir passar da porta dificilmente vai conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir alcançar todas as suas opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
+O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguirmos passar da porta dificilmente vamos conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir navegar pelas suas  opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
 
 Verifique se:
 
