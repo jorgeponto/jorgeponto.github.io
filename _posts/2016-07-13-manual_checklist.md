@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acessibilidade Web - lista de verificação manual
+title: Acessibilidade Web
 subtitle: 10 aspetos críticos na construção de sítios Web
 ---
 
