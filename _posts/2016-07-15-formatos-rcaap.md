@@ -7,7 +7,7 @@ Lista de formatos autorizados para depósito no RCAAP dos documentos referidos n
 
 <table>
 <tr>
-<th rowspan="2">one</th>
+<th colspan="2">one</th>
 </tr>
 <tr>
 <td>one</td>
