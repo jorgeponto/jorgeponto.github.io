@@ -5,6 +5,7 @@ subtitle: Despacho n.º 14167/2015 de 1 de dezembro
 ---
 Lista de formatos autorizados para depósito no RCAAP dos documentos referidos no artigo 50.º do Decreto-Lei n.ª 74/2006, de 24 de março, na redação dada pelo Decreto-Lei n.o 115/2013, de 7 de agosto
 
+
 <caption>Lista de formatos autorizados no <abbr title="Repositório Científico de Acesso Aberto de Portugal">RCAAP</abbr></caption>
 
 Domínios de formatos | Acrónimo do formato autorizado | Designação técnica do formato autorizado | Referência/Exemplo
