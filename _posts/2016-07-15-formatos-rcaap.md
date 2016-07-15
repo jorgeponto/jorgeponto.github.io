@@ -7,7 +7,7 @@ Lista de formatos autorizados para depósito no RCAAP dos documentos referidos n
 
 <caption>Título da tabela</caption>
  Col 1 |
--------
+--------|-------
  dado 1 | dado 2 
  dado 3 | dado 4 
 
