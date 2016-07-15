@@ -5,13 +5,15 @@ subtitle: Despacho n.º 14167/2015 de 1 de dezembro
 ---
 Lista de formatos autorizados para depósito no RCAAP dos documentos referidos no artigo 50.º do Decreto-Lei n.ª 74/2006, de 24 de março, na redação dada pelo Decreto-Lei n.o 115/2013, de 7 de agosto
 
+Table: Lista de formatos autorizados no <abbr title="Repositório Científico de Acesso Aberto de Portugal">RCAAP</abbr>
+---------------------|--------------------------------|------------------------------------------|-------------------
 Domínios de formatos | Acrónimo do formato autorizado | Designação técnica do formato autorizado | Referência/Exemplo
 ---------------------|--------------------------------|------------------------------------------|-------------------
 Texto de Tese ou dissertação | PDF/A | Portable Document Format/ Archival | ISO 19005-3:2012 Document management — Electronic document file format for long-term preservation — Part 3: Use of ISO 32000-1 with support for embedded files (PDF/A-3) http://www.iso.org/iso/home/store/catalogue_ics/ catalogue_detail_ics.htm?ics1=37&ics2=100&ics3=99&csnumber=57229
                              | RTF   | Rich Text Format | https://www.microsoft.com/en-za/download/details.aspx?id=10725
                              | ODF   | Open Document Format | ISO/IEC 26300-1:2015 — Open Document Format for Office Applications (OpenDocument) v1.2 http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=66363
-                             
-Table: Lista de formatos autorizados no <abbr title="Repositório Científico de Acesso Aberto de Portugal">RCAAP</abbr>
+                           
+
 
 
 
