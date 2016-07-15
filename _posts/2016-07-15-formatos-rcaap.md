@@ -9,8 +9,7 @@ Domínios de formatos | Acrónimo do formato autorizado | Designação técnica 
 ---------------------|--------------------------------|------------------------------------------|-------------------
 Texto de Tese ou dissertação | PDF/A | Portable Document Format/ Archival | ISO 19005-3:2012 Document management — Electronic document file format for long-term preservation — Part 3: Use of ISO 32000-1 with support for embedded files (PDF/A-3) http://www.iso.org/iso/home/store/catalogue_ics/ catalogue_detail_ics.htm?ics1=37&ics2=100&ics3=99&csnumber=57229
                              | RTF   | Rich Text Format | https://www.microsoft.com/en-za/download/details.aspx?id=10725
-                             | ODF   | Open Document Format | ISO/IEC 26300-1:2015 — Open Document Format for Office Applications (OpenDocument) v1.2
-http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail. htm?csnumber=66363
+                             | ODF   | Open Document Format | ISO/IEC 26300-1:2015 — Open Document Format for Office Applications (OpenDocument) v1.2 http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=66363
                              
 Table: Lista de formatos autorizados no <abbr title="Repositório Científico de Acesso Aberto de Portugal">RCAAP</abbr>
 
