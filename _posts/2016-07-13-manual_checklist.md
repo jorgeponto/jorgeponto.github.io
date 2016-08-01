@@ -12,7 +12,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 <table>
 <caption>Lista de verificação para <strong>menus de navegação</strong></caption>
  <tr>
-  <th style="width:70%; align:right;">verifique se:</th>
+  <th style="width:70%; align:rigth;">verifique se:</th>
   <th style="width:10%">sim</th>
   <th style="width:10%">não</th>
   <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
