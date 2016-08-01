@@ -12,28 +12,28 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 <table>
 <caption>Lista de verificação para <strong>menus de navegação</strong></caption>
  <tr>
-  <th style="width:70%">verifique se:</th>
+  <th style="width:70%; text-align:right">verifique se:</th>
   <th style="width:10%">sim</th>
   <th style="width:10%">não</th>
   <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
  </tr>
  <tr>
-  <td>o menu de navegação se encontra marcado como uma lista do tipo <code>&lt;ul&gt;</code>?</td>
+  <td style="text-align:right">o menu de navegação está marcado como uma lista do tipo <code>&lt;ul&gt;</code>?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>é possível navegar com rato e com teclado?</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
+  <td style="text-align:right">é possível navegar com rato e com teclado?</td>
+  <td></td>
+  <td></td>
+  <td></td>
  </tr>
  <tr>
-  <td>as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas?</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
+  <td style="text-align:right">as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas?</td>
+  <td></td>
+  <td></td>
+  <td></td>
  </tr>
 </table>
 
