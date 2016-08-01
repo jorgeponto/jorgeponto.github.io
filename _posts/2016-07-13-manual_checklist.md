@@ -12,8 +12,8 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 Verifique se:
 ____________________________________________
 | verifique se: | sim | não | não aplicável|
---------------------------------------------
- o menu de navegação se encontra marcado como uma lista do tipo `<ul>`? | [ ] | [ ] | [ ] 
+|:--- |:--- |:--- |:--- |
+| o menu de navegação se encontra marcado como uma lista do tipo `<ul>`? | [ ] | [ ] | [ ] 
 | é possível navegar com rato e com teclado? |[]|[]|[]|
 | as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas? |[]|[]|[]|
 
