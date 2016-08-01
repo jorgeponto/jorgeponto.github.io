@@ -40,7 +40,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 ## 2. Títulos e subtítulos
 
 <table>
-<caption>Lista de verificação para <strong>título e subtítulos</strong></caption>
+<caption>Lista de verificação para <strong>títulos e subtítulos</strong></caption>
  <tr>
   <th style="width:70%; text-align:left;">verifique se:</th>
   <th style="width:10%">sim</th>
@@ -48,11 +48,12 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
  </tr>
  <tr>
-  <td>existe um <code>&lt;h1&gt;</code> marcado na página?</td>
+  <td>existe um título <code>&lt;h1&gt;</code> marcado na página?</td>
   <td></td>
   <td></td>
  </tr>
-  <td>existe uma marcação hierarquizada de cabeçalhos na página (<code>&lt;h1&gt;...&lt;h6&gt;`)?</td>
+ <tr>
+  <td>existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;`)?</td>
   <td></td>
   <td></td>
  </tr>
@@ -61,59 +62,192 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 
 ## 3. Tabela de dados
 
-Verifique se:
-
-- as células que constituem os cabeçalhos da tabela estão marcadas com o elemento `<th>`?
-- o título da tabela está marcado com o elemento `<caption>`?
+<table>
+<caption>Lista de verificação para <strong>tabela de dados</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>as células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code>?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>o título da tabela está marcado com o elemento <code>&lt;caption&gt;</code>?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 4. Formulários
 
-Verifique se:
-
-- ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?
-- é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?
-- é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?
+<table>
+<caption>Lista de verificação para <strong>formulários</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 5. Gráficos e imagens-link
 
-Verifique se:
-
-- a imagem ou gráfico tem uma legenda curta (i.e. atributo `alt`)? 
-- o gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?
-- as imagens-link estão corretamente legendadas?
+<table>
+<caption>Lista de verificação para <strong>gráficos e imagens-link</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>a imagem ou gráfico tem uma legenda curta (i.e. atributo <code>alt</code>)?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>o gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>as imagens-link estão corretamente legendadas?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 6. Contraste
 
-Verifique se:
+<table>
+<caption>Lista de verificação de <strong>contrastes</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>para texto com tamanho normal, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 4,5:1?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>para texto com tamanho grande, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 3:1?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
-- para texto com tamanho normal, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 4,5:1?
-- para texto com tamanho grande, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 3:1?
+## 7. Leitores de vídeo ou áudio
 
-## 7. Leitores de vídeo e/ou áudio
-
-Verifique se:
-
-- é possível navegar com rato e com teclado através dos botões do leitor (<em lang="en">player</em>)?
-- o vídeo ou o áudio têm legendas sincronizadas ou se existe uma transcrição textual?
+<table>
+<caption>Lista de verificação para <strong>leitores de vídeo ou áudio</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>é possível navegar com rato e com teclado através dos botões de controlo do leitor (<em lang="en">player</em>)?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>o vídeo ou o áudio têm legendas sincronizadas e/ou está disponível uma transcrição textual?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 8. Estrutura da página
 
-Verifique se:
-
-- quando se retira a CSS, todos os elementos (x)HTML alinham à esquerda?
-- quando se retira a CSS, a informação aparece numa ordem lógica?
-- quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos e que não existe desfragmentação dos mesmos?
-- quando se retira a CSS, a informação relevante permanece visível?
-- a maquetização da página não é feita através do elemento `<table>`?
+<table>
+<caption>Lista de verificação para <strong>leitores de vídeo ou áudio</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>quando se retira a CSS, todos os elementos (x)HTML alinham à esquerda?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>quando se retira a CSS, a informação aparece numa ordem lógica?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>quando se retira a CSS, a informação relevante permanece visível?</td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>a maquetização da página não é feita através do elemento <code>&lt;table&gt;</code>?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 9. Gramática (x)HTML
 
-Verifique se:
-
-- a página não tem erros de (x)HTML?
+<table>
+<caption>Lista de verificação à <strong>sintaxe de (x)HTML</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>a página não tem erros de (x)HTML?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 ## 10. Ficheiros PDF - <em lang="en">Portable Document Format</em>
 
-Verifique se:
+<table>
+<caption>Lista de verificação para <strong>ficheiros PDF</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>usando a aplicação <em lang="en">Adobe Reader</em>, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
-- usando a aplicação <em lang="en">Adobe Reader</em>, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?
