@@ -10,10 +10,13 @@ No presente documento selecionámos 10 aspetos que se revelaram, em análises ef
 O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguirmos passar da porta dificilmente vamos conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir navegar pelas suas  opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
 
 Verifique se:
+| verifique se: | sim | não | não aplicável|
+--------------------------------------------
+o menu de navegação se encontra marcado como uma lista do tipo `<ul>`? | | | |
+é possível navegar com rato e com teclado? | | | |
+as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas? | | | |
 
-- é possível navegar com rato e com teclado?
-- o menu de navegação se encontra marcado como uma lista do tipo `<ul>` ou `<ol>`?
-- as imagens-link existentes no menu estão corretamente legendadas?
+
 
 ## 2. Títulos/subtítulos
 
