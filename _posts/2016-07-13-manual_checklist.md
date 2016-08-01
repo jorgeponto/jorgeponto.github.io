@@ -10,7 +10,7 @@ No presente documento selecionámos 10 aspetos que se revelaram, em análises ef
 O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguirmos passar da porta dificilmente vamos conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir navegar pelas suas  opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
 
 <table>
-<caption>Lista de verificação para menus de navegação</caption>
+<caption>Lista de verificação para <strong>menus de navegação</strong></caption>
  <tr>
   <th>verifique se:</th>
   <th>sim</th>
@@ -18,7 +18,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <th>não aplicável</th>
  </tr>
  <tr>
-  <td>o menu de navegação se encontra marcado como uma lista do tipo `<code>&lt;ul&gt;</code>`?</td>
+  <td>o menu de navegação se encontra marcado como uma lista do tipo '<code>&lt;ul&gt;</code>'?</td>
   <td>[  ]</td>
   <td>[  ]</td>
   <td>[  ]</td>
