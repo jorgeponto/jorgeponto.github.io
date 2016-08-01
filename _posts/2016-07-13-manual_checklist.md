@@ -58,7 +58,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td></td>
  </tr>
 </table>
-  
+
 ## 3. Tabela de dados
 
 <table>
