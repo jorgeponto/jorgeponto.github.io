@@ -30,7 +30,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td></td>
  </tr>
  <tr>
-  <td style="align:right">as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas?</td>
+  <td style="align:right">as imagens-link, caso existam no menu, estão corretamente legendadas?</td>
   <td></td>
   <td></td>
   <td></td>
