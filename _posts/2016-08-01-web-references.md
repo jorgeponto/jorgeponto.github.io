@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Web a11y references
