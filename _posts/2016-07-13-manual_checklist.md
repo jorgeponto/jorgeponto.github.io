@@ -9,6 +9,11 @@ No presente documento selecionámos 10 aspetos que se revelaram, em análises ef
 
 O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguirmos passar da porta dificilmente vamos conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir navegar pelas suas  opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
 
+<table>
+ <tr><th>1</th><th>2</th></tr>
+ <tr><td>a</td><td>b</td></tr>
+</table>
+
 Verifique se
 
 | verifique se: | sim | não | não aplicável|
