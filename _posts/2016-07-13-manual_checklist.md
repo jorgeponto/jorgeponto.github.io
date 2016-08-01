@@ -18,22 +18,22 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <th>não aplicável</th>
  </tr>
  <tr>
-  <td>o menu de navegação se encontra marcado como uma lista do tipo '<code>&lt;ul&gt;</code>'?</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
+  <td>o menu de navegação se encontra marcado como uma lista do tipo <code>&lt;ul&gt;</code>?</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
  </tr>
  <tr>
   <td>é possível navegar com rato e com teclado?</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
  </tr>
  <tr>
   <td>as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas?</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
-  <td>[  ]</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
+  <td>[&nbsp;]</td>
  </tr>
 </table>
 
