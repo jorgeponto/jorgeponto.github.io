@@ -10,19 +10,32 @@ No presente documento selecionámos 10 aspetos que se revelaram, em análises ef
 O menu de navegação é uma espécie de porta de entrada de uma casa. Se não conseguirmos passar da porta dificilmente vamos conseguir usufruir da casa. No caso de um sítio Web, se o utilizador não conseguir chegar ao menu principal ou se não conseguir navegar pelas suas  opções ou subopções nunca irá conseguir usufruir da informação ou dos serviços disponibilizados.
 
 <table>
- <tr><th>1</th><th>2</th></tr>
- <tr><td>a</td><td>b</td></tr>
+<caption>Lista de verificação para menus de navegação</caption>
+ <tr>
+  <th>verifique se:</th>
+  <th>sim</th>
+  <th>não</th>
+  <th>não aplicável</th>
+ </tr>
+ <tr>
+  <td>o menu de navegação se encontra marcado como uma lista do tipo `<code>&lt;ul&gt;</code>`?</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+ </tr>
+ <tr>
+  <td>é possível navegar com rato e com teclado?</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+ </tr>
+ <tr>
+  <td>as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas?</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+  <td>[  ]</td>
+ </tr>
 </table>
-
-Verifique se
-
-| verifique se: | sim | não | não aplicável|
-|--- |:---: |:--- |:--- |
-| o menu de navegação se encontra marcado como uma lista do tipo `<ul>`? | [x] | [x] | [x] | 
-| é possível navegar com rato e com teclado? |[]|[]|[]|
-| as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas? |[]|[]|[]|
-[Lista de verificação para menus de navegação][section-mmd-tables-table1]
-
 
 ## 2. Títulos/subtítulos
 
