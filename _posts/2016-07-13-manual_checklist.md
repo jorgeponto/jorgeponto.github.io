@@ -12,16 +12,16 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
 <table>
 <caption>Lista de verificação para <strong>menus de navegação</strong></caption>
  <tr>
-  <th>verifique se:</th>
-  <th>sim</th>
-  <th>não</th>
-  <th>não aplicável</th>
+  <th style="width:70%">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%">não aplicável</th>
  </tr>
  <tr>
   <td>o menu de navegação se encontra marcado como uma lista do tipo <code>&lt;ul&gt;</code>?</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
-  <td>[&nbsp;]</td>
+  <td></td>
+  <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>é possível navegar com rato e com teclado?</td>
