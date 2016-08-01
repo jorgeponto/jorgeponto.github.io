@@ -105,6 +105,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?</td>
@@ -182,9 +183,11 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>é possível navegar com rato e com teclado através dos botões de controlo do leitor (<em lang="en">player</em>)?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>o vídeo ou o áudio têm legendas sincronizadas e/ou está disponível uma transcrição textual?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -204,9 +207,11 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>quando se retira a CSS, todos os elementos (x)HTML alinham à esquerda?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>quando se retira a CSS, a informação aparece numa ordem lógica?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -214,14 +219,17 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>quando se retira a CSS, a informação relevante permanece visível?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>a maquetização da página não é feita através do elemento <code>&lt;table&gt;</code>?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -241,6 +249,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>a página não tem erros de (x)HTML?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
 </table>
 
@@ -256,6 +265,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
  </tr>
  <tr>
   <td>usando a aplicação <em lang="en">Adobe Reader</em>, é possível efetuar uma cópia do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
