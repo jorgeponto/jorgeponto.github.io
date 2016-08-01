@@ -15,7 +15,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <th style="width:70%">verifique se:</th>
   <th style="width:10%">sim</th>
   <th style="width:10%">não</th>
-  <th style="width:10%">não aplicável</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
  </tr>
  <tr>
   <td>o menu de navegação se encontra marcado como uma lista do tipo <code>&lt;ul&gt;</code>?</td>
