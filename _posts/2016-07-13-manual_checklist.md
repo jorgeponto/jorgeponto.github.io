@@ -37,12 +37,27 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
  </tr>
 </table>
 
-## 2. Títulos/subtítulos
+## 2. Títulos e subtítulos
 
-Verifique se:
-
-- existe um `<h1>` marcado na página?
-- existe uma marcação hierarquizada de cabeçalhos na página (`<h1>...<h6>`)?
+<table>
+<caption>Lista de verificação para <strong>título e subtítulos</strong></caption>
+ <tr>
+  <th style="width:70%; text-align:left;">verifique se:</th>
+  <th style="width:10%">sim</th>
+  <th style="width:10%">não</th>
+  <th style="width:10%"><abbr title="não aplicável">n.a</abbr></th>
+ </tr>
+ <tr>
+  <td>existe um <code>&lt;h1&gt;</code> marcado na página?</td>
+  <td></td>
+  <td></td>
+ </tr>
+  <td>existe uma marcação hierarquizada de cabeçalhos na página (<code>&lt;h1&gt;...&lt;h6&gt;`)?</td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
+  
 
 ## 3. Tabela de dados
 
