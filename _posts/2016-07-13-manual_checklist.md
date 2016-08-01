@@ -16,7 +16,7 @@ ____________________________________________
 | o menu de navegação se encontra marcado como uma lista do tipo `<ul>`? | [x] | [x] | [x] | 
 | é possível navegar com rato e com teclado? |[]|[]|[]|
 | as imagens-link, caso faço uso das mesmas no menu, estão corretamente legendadas? |[]|[]|[]|
-
+[Lista de verificação para menus de navegação]
 
 
 ## 2. Títulos/subtítulos
