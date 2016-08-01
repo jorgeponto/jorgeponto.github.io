@@ -85,7 +85,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
  </tr>
 </table>
 
-## 4. Formulários
+## 4. aFormulários
 
 <table>
 <caption>Lista de verificação para <strong>formulários</strong></caption>
