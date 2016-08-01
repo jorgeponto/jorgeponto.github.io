@@ -51,9 +51,11 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>existe um título <code>&lt;h1&gt;</code> marcado na página?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;)?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -73,9 +75,11 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>as células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code>?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>o título da tabela está marcado com o elemento <code>&lt;caption&gt;</code>?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -95,6 +99,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>ao clicar com o rato na etiqueta, o cursor aparece no campo de edição?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>é possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
@@ -103,6 +108,7 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
  </tr>
  <tr>
   <td>é possível ler facilmente as mensagens de erro usando apenas um leitor de ecrã?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -122,14 +128,17 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>a imagem ou gráfico tem uma legenda curta (i.e. atributo <code>alt</code>)?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>o gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>as imagens-link estão corretamente legendadas?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -149,9 +158,11 @@ O menu de navegação é uma espécie de porta de entrada de uma casa. Se não c
   <td>para texto com tamanho normal, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 4,5:1?</td>
   <td></td>
   <td></td>
+  <td></td>
  </tr>
  <tr>
   <td>para texto com tamanho grande, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 3:1?</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
