@@ -1,7 +1,7 @@
 <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation"><a href="#" onclick="loadDoc1();return false;" aria-controls="introducao" role="tab" data-toggle="tab">Introdução</a></li>
-    <li role="presentation" class="active"><a href="#" onclick="loadDoc2();return false;" aria-controls="capitulo1" role="tab" data-toggle="tab">Capítulo I</a></li>
+    <li role="presentation" class="active"><a href="#" onclick="loadDoc2();return false;" aria-controls="capitulo1" role="tab" aria-selected="true" data-toggle="tab">Capítulo I</a></li>
   </ul>
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="capitulo1">
