@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AJAX e Acessibilidade
-subtitle: 
+subtitle: AJAX é bom para a acessibilidade!?
 ---
 <script>
 function loadDoc1() {
@@ -18,6 +18,11 @@ function loadDoc2() {
 }
 </script>
 
+<p>Há muito tempo que os designers profissionais tentam transpor a experiência dos utilizadores com objetos físicos para o mundo digital. Um desses objetos são os separadores. Usar a metáfora do separador num ecrã de computador ajuda a apresentar a informação por partes, tornando a leitura mais focada, não apresentando páginas cheias de informação que dissuade rapidamente, qualquer um, de continuar.</p>
+<p>Curiosamente, esta lógica de apresentar a informação por partes, mantendo o utilizador focado num determinado conteúdo, perde-se com um simples clique. Basta desativar a folha de estilo (CSS) criada pelo autor e eis que aparece todo o conteúdo. Da minha experiência, esta simples mudança de CSS faz, em muitos sítios Web, quintuplicar o conteúdo visível. Cinco vezes mais conteúdo! Conteúdo que é carregado de uma só vez no browser e que na maioria das vezes o utilizador nem sequer o chega a consultar. Mas está lá, foi descarregado e as operadoras de telecomunicações, de certo, agradecem.</p>
+<p>Mas o problema maior é que as tecnologias de apoio, usadas por pessoas com deficiência para navegar na Web, fazem-no, frequentemente, sem folhas de estilo, ou com folhas de estilo personalizadas, o que significa que os utilizadores com deficiência passam a ver cinco vezes mais conteúdo que um utilizador que não usa este tipo de tecnologia. Logo os utilizadores com limitações funcionais que iriam beneficiar de uma navegação focada, no mínimo igual à dos seus pares que não usam tecnologias de apoio, nem sequer desta podem usufruir. Antes pelo contrário.</p>
+<p>Quando vi surgir o AJAX em 2005, veio-me ao pensamente este problema, e vi nesta técnica de carregar partes de páginas, como uma forma de solucionar a questão da manutenção do foco do utilizador numa parte do conteúdo. O AJAX permite focar todos os utilizadores e não apenas alguns no conteúdo.</p>
+<p>Hoje, dez anos depois, consegui, usando AJAX, eu próprio, fazer um exemplo disso mesmo:</p>
 <div id="demo">
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
