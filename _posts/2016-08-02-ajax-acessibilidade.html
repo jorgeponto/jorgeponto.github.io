@@ -1,6 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
+---
+layout: post
+title: AJAX e Acessibilidade
+subtitle: 
+---
 <script>
 function loadDoc() {
   var xhttp = new XMLHttpRequest();
@@ -9,11 +11,6 @@ function loadDoc() {
   document.getElementById("demo").innerHTML = xhttp.responseText;
 }
 </script>
-</head>
-<body>
 
 <p id="demo">Let AJAX change this text.</p>
 <button type="button" onclick="loadDoc()">Change Content</button>
-
-</body>
-</html>
