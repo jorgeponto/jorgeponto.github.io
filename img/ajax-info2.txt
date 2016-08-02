@@ -9,4 +9,4 @@
       <p>Agora estamos no capítulo I e não há quaisquer vestigios da Introdução. Pode desativar as CSS e irá continuar a ver apenas o capítulo I.</p>
     </div>
   </div>
-  <!-- fim dedemo -->
+  <!-- fim de demo -->
