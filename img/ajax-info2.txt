@@ -6,7 +6,7 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="capitulo1">
       <h2>Capítulo I</h2>
-      <p>Agora estamos no capítulo I e não há quaisquer vestigios da Introdução. Pode desativar as CSS e irá continuar a ver apenas a introdução.</p>
+      <p>Agora estamos no capítulo I e não há quaisquer vestigios da Introdução. Pode desativar as CSS e irá continuar a ver apenas o capítulo I.</p>
     </div>
   </div>
   <!-- fim de demo -->
