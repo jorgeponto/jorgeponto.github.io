@@ -1,3 +1,12 @@
-<h2>Página totalmente carregada com AJAX</h2>
-<p>Este conteúdo estava no servidor e foi totalmente carregado na página através de AJAX. Os designers costumam apresentar informação aos utilizadores de forma parcial. Com esta técnica pretendem, os designers, manter o utilizador focado numa tarefa em concreta, evitando mostrar-lhes grandes quantidades de informação de uma só vez.</p>
-<p>Esta nobre função, quando se utilizam tecnologias de apoio, é, na generalidade, violada porque a técnica que é usada passa por esconder a informação através da CSS - ou seja, o conteúdo está carregado no browser mas não é mostrado no ecrã. Apesar de não ser mostrado no ecrã, muitas tecnologias de apoio vêem o conteúdo e apresentam-no na mesma aos utilizadores. O uso de AJAX permite ultrapassar este problema, uma vez que podem enviar para o browser apenas o conteúdo que é apresentado.</p>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#" onclick="loadDoc1();return false;" aria-controls="introducao" role="tab" data-toggle="tab">Introdução</a></li>
+    <li role="presentation"><a href="#" onclick="loadDoc2();return false;" aria-controls="capitulo1" role="tab" data-toggle="tab">Capítulo I</a></li>
+  </ul>
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="introducao">
+      <h2>Introdução</h2>
+      <p>Neste momento está na introdução e se desativar as CSS irá continuar a ver apenas a introdução.</p>
+    </div>
+  </div>
+  <!-- fim de demo -->
