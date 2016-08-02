@@ -4,9 +4,15 @@ title: AJAX e Acessibilidade
 subtitle: 
 ---
 <script>
-function loadDoc() {
+function loadDoc1() {
   var xhttp = new XMLHttpRequest();
   xhttp.open("GET", "/img/ajax-info.txt", false);
+  xhttp.send();
+  document.getElementById("demo").innerHTML = xhttp.responseText;
+}
+function loadDoc2() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.open("GET", "/img/ajax-info2.txt", false);
   xhttp.send();
   document.getElementById("demo").innerHTML = xhttp.responseText;
 }
@@ -16,9 +22,16 @@ function loadDoc() {
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a onclick="loadDoc1()" aria-controls="introducao" role="tab" data-toggle="tab">Introdução</a></li>
-    <li role="presentation"><a onclick="loadDoc2()" aria-controls="capitulo1" role="tab" data-toggle="tab">Capítulo I</a></li>
+    <li role="presentation" class="active"><a href="#" onclick="loadDoc1();return false;" aria-controls="introducao" role="tab" data-toggle="tab">Introdução</a></li>
+    <li role="presentation"><a href="#" onclick="loadDoc2();return false;" aria-controls="capitulo1" role="tab" data-toggle="tab">Capítulo I</a></li>
   </ul>
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="introducao">
+      <h2>Introdução</h2>
+      <p>Neste momento está na introdução e se desativar as CSS irá continuar a ver apenas a introdução.</p>
+    </div>
+  </div>
+  <!-- fim de demo -->
 </div>
 
 
