@@ -12,5 +12,8 @@ function loadDoc() {
 }
 </script>
 
-<p id="demo">Let AJAX change this text.</p>
+<div id="demo">
+  <h2>Este é o conteúdo original</h2>
+  <p>Se passarmos este conteúdo pelo validador de acccessibilidade <a href="http://www.acessibilidade.gov.pt/accessmonitor">AccessMonitor</a>, ele vai ver um link <strong>"Accessmonitor"</strong> na página. Depois de carregarmos no botão <strong></strong>"Alterar conteúdo"</strong> e passarmos a página pelo mesmo validador, ele não vai ver o link. Se tivêssemos usado técnicas de CSS para o fazer, visualmente teríamos o mesmo efeito mas o validador iria ver o link mesmo quando este não é visível no ecrã.</p>
+</div>
 <button type="button" onclick="loadDoc()">Alterar conteúdo</button>
