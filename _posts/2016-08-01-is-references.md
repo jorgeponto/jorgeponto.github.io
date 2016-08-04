@@ -10,3 +10,4 @@ subtitle: Some readings about Information Society
   * <strong>Reflexão</strong>: a distinção entre a literacia e a letracia. Não é preciso saber ler para procurar respostas. A "máquina do conhecimento" (computador) parece ter a resposta. Nos EUA, apenas 10% das crianças cegas aprendem braille - o ensino Norte americano parece ter abandonado a "letracia braille" e parece confiar na "Máquina do Conhecimento" para fazer chegar o conhecimento às pessoas cegas. Será? Para explorar...
 - Seymour Papert. [The Children's Machine: Rethinking School in the Age of the Computer](https://ia601002.us.archive.org/28/items/pdfy-WeLwkqLL6w830OqF/Papert%20Seymour-The%20Children's%20Machine.pdf). 
   * Nota: tem a história da meniina de 4 anos que queria saber como dormem as girafas?
+- Seymour Papert. (1980). [Mindestorms - Children, Computers, and Powerful Ideas](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxha2hsYWdoZWF8Z3g6NzgyOWYxNWNjMjE5ZjVh).
