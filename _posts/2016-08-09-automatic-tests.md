@@ -10,9 +10,9 @@ title: Testes Automáticos em Acessibilidade Web
 <table>
 <caption>AccessMonitor Results to Accessibility University 3.0 (HomePage)</caption>
 <tr>
- <th>Issue</th>
- <th>AccessMonitor</th>
- <th>Terrill Thompson Notes</th>
+ <th style="width:30%">Issue</th>
+ <th style="width:10%">AccessMonitor</th>
+ <th style="width:60%">Terrill Thompson Notes</th>
 </tr>
 <tr>
  <td>1. No headings:</td>
