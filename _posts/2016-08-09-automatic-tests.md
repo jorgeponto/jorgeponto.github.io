@@ -7,11 +7,11 @@ title: Testes Automáticos em Acessibilidade Web
 
 ## Results of AccessMonitor to the <abbr title="Accessibility University 3.0" lang="en">AU</abbr> Homepage
 
-|-------|---------------|
-| Issue | AccessMonitor | 
-|-------|---------------|
+
+| Issue | AccessMonitor |
+|:------|---------------|
 |No headings: |  |
-No alt text: There are several informative images with no alt attributes.
+|No alt text: |  |
 Bad alt text: There are three decorative images with alt="horizontal line graphic".
 Color contrast: The navigation menu has poor color contrast.
 Dropdown menu: The dropdown menu has many problems, the greatest being that the submenus are hidden from everyone (including screen reader users), and can only be revealed by hovering with a mouse.
