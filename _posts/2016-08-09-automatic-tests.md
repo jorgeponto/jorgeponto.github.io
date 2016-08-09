@@ -11,7 +11,7 @@ title: Testes Automáticos em Acessibilidade Web
 <caption>AccessMonitor Results to Accessibility University 3.0 (HomePage)</caption>
 <tr>
  <th width="40%" scope="col">Issue</th>
- <th width="10%" text-align="center" scope="col">AccessMonitor</th>
+ <th width="10%" style="align: center" scope="col">AccessMonitor</th>
  <th width="50%" scope="col">Terrill Thompson Notes</th>
 </tr>
 <tr>
