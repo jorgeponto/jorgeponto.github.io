@@ -105,4 +105,5 @@ title: Testes Automáticos em Acessibilidade Web
  <td>Validation of this page yields five errors, all related to images with no alt text.</td>
 </tr>
 </table>
-<p>Nota: AccessMonitor found 17 depricated elements: `<b>`.</p>
+
+Nota: AccessMonitor found 17 depricated elements: `<b>`. AccessMonitor also found the lack of "skip to main content" link.
