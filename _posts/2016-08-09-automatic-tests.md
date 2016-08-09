@@ -10,13 +10,13 @@ title: Testes Automáticos em Acessibilidade Web
 <table>
 <caption>AccessMonitor Results to Accessibility University 3.0 (HomePage)</caption>
 <tr>
- <th width="40%" scope="col">Issue</th>
- <th width="10%" style="align: center" scope="col">AccessMonitor</th>
- <th width="50%" scope="col">Terrill Thompson Notes</th>
+ <th width="40%">Issue</th>
+ <th width="10%">AccessMonitor</th>
+ <th width="50%">Terrill Thompson Notes</th>
 </tr>
 <tr>
  <td>1. No headings:</td>
- <td style="background-color:green; color:white">Yes<br />(0 headings)</td>
+ <td style="background-color:green; color:white; align:center">Yes<br />(0 headings)</td>
  <td>The page has clear visible headings, but no HTML heading markup.</td>
 </tr>
 <tr>
