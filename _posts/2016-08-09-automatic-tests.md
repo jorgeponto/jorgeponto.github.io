@@ -21,7 +21,7 @@ title: Testes Automáticos em Acessibilidade Web
 </tr>
 <tr>
  <td>2. No alt text:</td>
- <td></td>
+ <td style="background-color:green; color:white; text-align:center">Yes<br />(5/9 w/ no alt)</td>
  <td>There are several informative images with no alt attributes.</td>
 </tr>
 <tr>
