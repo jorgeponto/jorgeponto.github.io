@@ -16,7 +16,7 @@ title: Testes Automáticos em Acessibilidade Web
 </tr>
 <tr>
  <td>1. No headings:</td>
- <td style="background-color:green;">Yes (0 headings)</td>
+ <td style="background-color:#969;">Yes (0 headings)</td>
  <td>The page has clear visible headings, but no HTML heading markup.</td>
 </tr>
 <tr>
