@@ -1,0 +1,45 @@
+body {
+			margin-left: 0.5em;
+		}
+		
+		.link-custom {
+			white-space: normal !important;
+			padding: 0.1em 1em;
+			border-left: solid 4px white;
+		}
+		
+		.link-custom:focus, .link-custom:hover {
+			border-left: solid 4px red;
+		}
+		
+		.heading-custom {
+			font-weight: bold;
+		}
+		
+		#sc-list {
+			list-style-type: none;
+			padding: 0;
+			margin: 0;
+		}
+		
+		label {
+			cursor: pointer;
+		}
+		
+		#preferences-heading {
+			margin: 0;
+		}
+		
+		div#closeOverlay {
+			float: right;
+		}
+		
+		/* Tabs */
+		.tab-selected {
+			border-bottom: solid 2px #333;
+		}
+		
+		footer {
+			margin-top: 1em;
+			border-top: solid 3px #CCC;
+		}
