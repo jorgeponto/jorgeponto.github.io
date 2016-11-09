@@ -45,21 +45,21 @@
 
 <!-- Preferences section - show\hide levels -->
 <section id="preferences-container">
-	<button type="button" id="preferences-heading" class="btn btn-success"><a href="#" aria-expanded="false" aria-controls="preferences" class="pure-button">Preferências de visualização</a></button>
+	<button type="button" id="preferences-heading" class="btn btn-success"><a href="#" aria-expanded="false" aria-controls="preferences" class="pure-button">filtrar criérios de sucesso a visualizar</a></button>
 	<div id="preferences">
 	<form class="pure-form pure-form-stacked">
 		<fieldset>
-			<legend>Mostrar ou esconder os critérios de sucesso</legend>			
+			<legend>Mostrar ou esconder os critérios de sucesso por prioridade</legend>			
 			<ul id="sc-list">			
 				<li><label for="a" class="pure-checkbox">
-					<input type="checkbox" id="a" name="level_a" class="toggle_sc" data-sc-count="25" checked> Mostrar os 25 critérios de sucesso de Nível A</label></li>				
+					<input type="checkbox" id="a" name="level_a" class="toggle_sc" data-sc-count="25" checked> Mostrar os 25 critérios de sucesso de prioridade A</label></li>				
 				<li><label for="aa" class="pure-checkbox">
-					<input type="checkbox" id="aa" name="level_aa" class="toggle_sc" data-sc-count="13" checked> Mostrar os 13 critérios de Nível AA</label></li>
+					<input type="checkbox" id="aa" name="level_aa" class="toggle_sc" data-sc-count="13" checked> Mostrar os 13 critérios de sucesso de prioridade AA</label></li>
 				<li><label for="aaa" class="pure-checkbox">
-					<input type="checkbox" id="aaa" name="level_aaa" class="toggle_sc" data-sc-count="23" checked> Mostrar os 23 critérios de sucesso de Nível AAA</label></li>			
+					<input type="checkbox" id="aaa" name="level_aaa" class="toggle_sc" data-sc-count="23" checked> Mostrar os 23 critérios de sucesso de prioridade AAA</label></li>			
 			</ul>
 
-			<p aria-live="polite" aria-atomic="false">A mostrar os <strong id="currentScCount"></strong> criérios de sucesso.</p>
+			<p aria-live="polite" aria-atomic="false">A mostrar <strong id="currentScCount"></strong> criérios de sucesso.</p>
 			<button type="submit" class="pure-button pure-button-primary" id="toggle_checkpoints">Atualizar</button>
 		</fieldset>
 	</form>	
