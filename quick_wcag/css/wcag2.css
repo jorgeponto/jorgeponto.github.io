@@ -14,12 +14,11 @@ body {
 		
 .heading-custom {
 	font-weight: bold;
-	border-bottom:1px solid #000;
 }
 		
 #sc-list {
 	list-style-type: none;
-	padding: 0;
+	padding: 0 0 0 0.5em;
 	margin: 0;
 }
 		
