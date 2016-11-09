@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="Description" content="Guia com uma visão rápida das WCAG 2.0; disponibilizar um acesso rápido a todos os critérios de sucesso das WCAG 2">
 	<meta name="Keywords" content="Visão rápida das WCAG 2.0, critérios de sucesso, auditoria, conformidade, acessibilidade web, wai, w3c">
-	<meta name="Author" content="Jorge Fernandes based in Joe Chidzik">
+	<meta name="Author" content="portuguese version of Jorge Fernandes based in Joe Chidzik">
 
 	<!-- Get pureio.css http://purecss.io -->
 	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
@@ -45,31 +45,25 @@
 
 <!-- Preferences section - show\hide levels -->
 <section id="preferences-container">
-	<h2 id="preferences-heading"><a href="#" aria-expanded="false" aria-controls="preferences" class="pure-button">Preferências de visualização</a></i></h2>
+	<h2 id="preferences-heading"><a href="#" aria-expanded="false" aria-controls="preferences" class="pure-button">Preferências de visualização</a></h2>
 	<div id="preferences">
 	<form class="pure-form pure-form-stacked">
 		<fieldset>
-			<legend>Mostrar ou esconder os critérios de sucesso</legend>
-			
-			<ul id="sc-list">
-			
+			<legend>Mostrar ou esconder os critérios de sucesso</legend>			
+			<ul id="sc-list">			
 				<li><label for="a" class="pure-checkbox">
-					<input type="checkbox" id="a" name="level_a" class="toggle_sc" data-sc-count="25" checked> Mostrar os 25 critérios de sucesso de Nível A</label></li>
-				
+					<input type="checkbox" id="a" name="level_a" class="toggle_sc" data-sc-count="25" checked> Mostrar os 25 critérios de sucesso de Nível A</label></li>				
 				<li><label for="aa" class="pure-checkbox">
 					<input type="checkbox" id="aa" name="level_aa" class="toggle_sc" data-sc-count="13" checked> Mostrar os 13 critérios de Nível AA</label></li>
-
 				<li><label for="aaa" class="pure-checkbox">
-					<input type="checkbox" id="aaa" name="level_aaa" class="toggle_sc" data-sc-count="23" checked> Mostrar os 23 critérios de sucesso de Nível AAA</label></li>
-			
+					<input type="checkbox" id="aaa" name="level_aaa" class="toggle_sc" data-sc-count="23" checked> Mostrar os 23 critérios de sucesso de Nível AAA</label></li>			
 			</ul>
 
 			<p aria-live="polite" aria-atomic="false">A mostrar os <strong id="currentScCount"></strong> criérios de sucesso.</p>
-
 			<button type="submit" class="pure-button pure-button-primary" id="toggle_checkpoints">Atualizar</button>
 		</fieldset>
-		</form>	
-	</div>
+	</form>	
+</div>
 </section>
 
 <!-- main section -->
@@ -78,7 +72,7 @@
 	<div class="pure-g">
 	<div class="pure-u-1 pure-u-md-1-4">
 <h2 id="Perceivable" tabindex="-1">Percetível</h2>
-<a href="#Operable" class="screenreader-onlyn">Ssltar para Operável</a>
+<a href="#Operable" class="screenreader-only">Ssltar para Operável</a>
 <div id="principle1">
 <div class="pure-menu">
 <span class="pure-menu-heading heading-custom" role="heading" aria-level="3">Alternativas em texto</span>
