@@ -2,6 +2,7 @@
 layout: post
 title: Accessibility in Digital Learning Materials
 ---
+
 - Word, PDF, PPT, Excel:
   * [Create Accessible Electronic Documents](https://www.section508.gov/content/build/create-accessible-documents) | info compiled by Section508
   * [National Instructional Materials Accessibility Standard](https://www2.ed.gov/legislation/FedRegister/proprule/2005-2/062905a.html) | standard dated from 2005.
