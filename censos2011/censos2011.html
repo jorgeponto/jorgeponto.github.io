@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-PT" lang="pt-PT">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Censos 2011</title>
+    <style type="text/css">
+        body {font-family: arial; background-color: #CCFFCC; margin: 0% 10%;}
+        tr:first-child th {text-align:center;}
+        td {background-color: #AFE495; text-align: right; margin:0.5em; padding: 0.5em;}
+        th {background-color: #88D864; margin:0.5em; padding:0.5em; text-align:right;}
+        div#chart_div, div.table, div#chart2_div, div#chart3_div, div#chart4_div, div#chart5_div {text-align:center;margin:auto auto;}
+        div.table ul {margin-top:0;}
+        div.table ul li {list-style: none; font-size: 90%; text-align: left;}
+        div.table p {margin:0; font-size: 90%; text-align: left;}
+        div.table p.fonte {text-align: right;}
+        div.table p span {border-bottom:1px solid #88D864;}
+        
+    </style>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+                                                          ['Ação de', 'Taxa de incidência'],
+                                                          ['Ver', 920519],
+                                                          ['Ouvir', 533202],
+                                                          ['Andar ou subir degraus', 980000],
+                                                          ['Memória ou concentração', 655377],
+                                                          ['Tomar banho ou vestir-se sozinho', 471557],
+                                                          ['Compreender os outros ou fazer-se compreender', 343822]
+        ]);
+        var options = {
+            title: 'Não consegue ou tem muita dificuldade em executar as ações de:',
+            is3D: 'true',
+            backgroundColor: '#CCFFCC'
+        };
+        var data2 = google.visualization.arrayToDataTable([
+                                                          ['Função', 'Taxa de incidência'],
+                                                          ['Visual', 920519],
+                                                          ['Auditiva', 533202],
+                                                          ['Motora', 1451557],
+                                                          ['Cognitiva', 999199]
+        ]);
+        var options2 = {
+            title: 'Não consegue ou tem muita dificuldade nas funções:',
+            is3D: 'true',
+            backgroundColor: '#CCFFCC'
+        };
+        var data3 = google.visualization.arrayToDataTable([
+          ['Grupo etário', 'não vêem ou têm muita dificuldade'],
+          ['[5-9]',  7216],
+          ['[10-14]',  11727],
+          ['[15-19}',  11998],
+          ['[20-24]',  12493],
+          ['[25-29]',  14553],
+          ['[30-34]',  19038],
+          ['[35-39]',  22663],
+          ['[40-44]',  28851],
+          ['[45-49]',  51717],
+          ['[50-54]',  70798],
+          ['[55-59]',  79111],
+          ['[60-64]',  81948],
+          ['[65-69]',  86131],
+          ['[70-74]',  100884],
+          ['[75-79]',  113314]
+        ]);
+        var options3 = {
+            title: 'Nº de Homens e Mulheres que Não consegue ou tem muita dificuldade com a função visual',
+            hAxis: {title: 'Grupo etário'},
+            vAxis: {title: 'nº de Homens e Mulheres com dificuldade para ver'},
+            backgroundColor: '#CCFFCC',
+        };
+        var data4 = google.visualization.arrayToDataTable([
+                                                          ['Empregabilidade de pessoas cegas', 'Taxa'],
+                                                          ['Empregado', 3814],
+                                                          ['Desempregado', 642]
+        ]);
+        var options4 = {
+            title: 'Empregabilidade da população que não consegue Ver',
+            is3D: 'true',
+            backgroundColor: '#CCFFCC'
+        };
+        var data5 = google.visualization.arrayToDataTable([
+                                                          ['Empregabilidade de pessoas cegas', 'Taxa'],
+                                                          ['Trabalho', 302743],
+                                                          ['Reforma/Pensão', 1146012],
+                                                          ['Subsídio de desemprego', 40417],
+                                                          ['Subsídio por acidente de trabalho ou doença profissional', 7618],
+                                                          ['Rendimento social de inserção', 26304],
+                                                          ['Outro subsídio temporário (doença, maternidade, etc)', 13199],
+                                                          ['Rendimento da propriedade ou da empresa', 7754],
+                                                          ['Apoio social', 13298],
+                                                          ['A cargo da família', 145793],
+                                                          ['Outro', 37367],
+        ]);
+        var options5 = {
+            title: 'Fontes de rendimento da população que não consegue Ver ou que tem muita dificuldade para ver',
+            is3D: 'true',
+            backgroundColor: '#CCFFCC'
+        };
+        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+        var chart2 = new google.visualization.PieChart(document.getElementById('chart2_div'));
+        chart2.draw(data2, options2);
+        var chart3 = new google.visualization.ColumnChart(document.getElementById('chart3_div'));
+        chart3.draw(data3, options3);
+        var chart4 = new google.visualization.PieChart(document.getElementById('chart4_div'));
+        chart4.draw(data4, options4);
+        var chart5 = new google.visualization.PieChart(document.getElementById('chart5_div'));
+        chart5.draw(data5, options5);
+      }
+    </script>
+</head>
+<body>
+    <h1>Censos 2011 - dados sobre funcionalidade</h1>
+    <h2>População com dificuldades na realização de algumas atividades do dia a dia por motivos de saúde ou idade</h2>
+    <p>Mais de 82% da população com 5 ou mais anos consideraram não ter dificuldade em realizar atividades diárias relacionadas com a visão, audição, locomoção, memória/concentração e com a higiene e arranjo pessoal e, ainda, em compreender os outros e fazer-se entender por eles.</p>
+    <p>Assim, apenas cerca de 18% da população com 5 ou mais anos de idade [1792719] declarou ter muita dificuldade, ou não conseguir realizar pelo menos uma das 6 atividades diárias. Contudo, na população com 65 ou mais anos, este indicador ultrapassava 50%.</p>
+    <p>A dificuldade em andar era a principal limitação na realização das tarefas diárias. De facto, das pessoas com 5 ou mais anos que tinham pelo menos uma dificuldade, 25% não conseguiam ou manifestavam muita dificuldade em andar ou subir degraus.</p>
+    <p>Por outro lado, cerca de 23% tinham muita dificuldade ou não conseguiam ver mesmo usando óculos ou lentes de contacto (INE, 2012: 16).</p>
+    <div class="table" style="width:60%">
+    <table summary ="18% dos residentes em Portugal afirmam ter muita dificuldade ou não conseguir realizar a ação" width="100%">
+        <caption>Grau de dificuldade para executar a ação (nível de funcionalidade)</caption>					
+	<tr>
+            <th>Ação</th>
+            <th>[1]</th>
+            <th>[2]</th>
+            <th>Total</th>
+            <th>Taxa de <br />incidência</th>
+            <th>[1]/([1]+[2])</td>
+        </tr>
+	<tr>
+            <th>Ver</th>
+            <td>27659</td>
+            <td>892860</td>
+            <td>920519</td>
+            <td>23,6%</td>
+            <td>3,0%</td>
+        </tr>
+	<tr>
+            <th>Ouvir</th>
+            <td>26860</td>
+            <td>506342</td>
+            <td>533202</td>
+            <td>13,7%</td>
+            <td>5,0%</td>
+        </tr>
+        <tr>
+            <th>Andar ou subir degraus</th>
+            <td>104871</td>
+            <td>875129</td>
+            <td>980000</td>
+            <td>25,1%</td>
+            <td>10,7%</td>
+        </tr>
+        <tr>
+            <th>Memória ou concentração</th>
+            <td>102440</td>
+            <td>552937</td>
+            <td>655377</td>
+            <td>16,8%</td>
+            <td>15,6%</td>
+        </tr>
+        <tr>
+            <th>Tomar banho ou vestir-se sozinho</th>
+            <td>148106</td>
+            <td>323451</td>
+            <td>471557</td>
+            <td>12,1%</td>
+            <td>31,4%</td>
+        </tr>
+        <tr>
+            <th>Compreender os outros ou fazer-se compreender</th>
+            <td>11962</td>
+            <td>331860</td>
+            <td>343822</td>
+            <td>8,8%</td>
+            <td>3,5%</td>
+        </tr>
+    </table>
+    <p class="fonte"><span>fonte: dados <abbr title="Instituto Nacional de Estatística">INE</abbr> - censos 2011</span></p>
+    <p><span>Legenda:</span></p>
+    <ul>
+        <li>[1] não consegue efetuar a ação</li>				
+	<li>[2] tem muita dificuldade em efetuar a ação</li>
+    </ul>
+    </div>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+    <h2>Dificuldades com a função visual, auditiva, motora e cognitiva</h2>
+    <p>Se agregarmos as ações de "tomar banho ou vestir-se sozinho" e "andar ou subir degraus" na "função motora", e "compreender os outros ou fazer-se compreender" e "memória ou concentração" na "função cognitiva" ficamos com as seguintes 4 funções: função visual, função auditiva, função motora e função cognitiva.</p>
+<div id="chart2_div" style="width: 900px; height: 500px;"></div>
+<h2>Dificuldades para Ver</h2>
+<p>Quando se analisa a evolução por grupo etário dos 23,6% (920519) que revelam ter muita dificuldade ou não conseguem ver, verifica-se que a função de ver se perde à medida que a idade avança - essa perda é exponencial até aos 79 anos. Destaque para a perda que ocorre entre os 40 e os 50 anos: a taxa mais que duplica, passando dos 28851 para mais de 70 mil pessoas com problemas visuais graves.</p>
+<div class="table" style="width: 60%">
+    <table summary="Cerca de 1 milhão de residentes em Portugal tem graves problemas de visão. As dificuldades de visão crescem exponencialmente à medida que a idade avança." width="100%">
+    <caption>Grau de dificuldade para "Ver" por grupo etário</caption>
+    <tr>
+        <th rowspan="2">Grupo etário</th>
+        <th colspan="3"><abbr title="Homens e Mulheres">HM</abbr></th>
+        <th colspan="3"><abbr title="Homens">H</abbr></th>
+    </tr>
+    <tr>
+        <th>[1]</th>
+        <th>[2]</th>
+        <th>[1]+[2]</th>
+        <th>[1]</th>
+        <th>[2]</th>
+        <th>[1]+[2]</th>
+    </tr>
+    <tr>
+        <th>5 - 9 anos</th>
+        <td>300</td>
+        <td>6916</td>
+        <td>7216</td>
+        <td>152</td>
+        <td>3495</td>
+        <td>3647</td>
+    </tr>
+    <tr>
+        <th>10 - 14 anos</th>
+        <td>344</td>
+        <td>11383</td>
+        <td>11727</td>
+        <td>187</td>
+        <td>5513</td>
+        <td>5700</td>
+    </tr>
+    <tr>
+        <th>15 - 19 anos</th>
+        <td>423</td>
+        <td>11575</td>
+        <td>11998</td>
+        <td>217</td>
+        <td>5239</td>
+        <td>5456</td>
+    </tr>
+    <tr>
+        <th>20 - 24 anos</th>
+        <td>546</td>
+        <td>11947</td>
+        <td>12493</td>
+        <td>298</td>
+        <td>4988</td>
+        <td>5286</td>
+    </tr>
+    <tr>
+        <th>25 - 29 anos</th>
+        <td>630</td>
+        <td>13923</td>
+        <td>14553</td>
+        <td>347</td>
+        <td>5655</td>
+        <td>6002</td>
+    </tr>
+    <tr>
+        <th>30 - 34 anos</th>
+        <td>942</td>
+        <td>18096</td>
+        <td>19038</td>
+        <td>493</td>
+        <td>7161</td>
+        <td>7654</td>
+    </tr>
+    <tr>
+        <th>35 - 39 anos</th>
+        <td>1073</td>
+        <td>21590</td>
+        <td>22663</td>
+        <td>594</td>
+        <td>8301</td>
+        <td>8895</td>
+    </tr>
+    <tr>
+        <th>40 - 44 anos</th>
+        <td>1030</td>
+        <td>27821</td>
+        <td>28851</td>
+        <td>564</td>
+        <td>10499</td>
+        <td>11063</td>
+    </tr>
+    <tr>
+        <th>45 - 49 anos</th>
+        <td>1220</td>
+        <td>50497</td>
+        <td>51717</td>
+        <td>683</td>
+        <td>18900</td>
+        <td>19583</td>
+    </tr>
+    <tr>
+        <th>50 - 54 anos</th>
+        <td>1351</td>
+        <td>69447</td>
+        <td>70798</td>
+        <td>719</td>
+        <td>27491</td>
+        <td>28210</td>
+    </tr>
+    <tr>
+        <th>55 - 59 anos</th>
+        <td>1502</td>
+        <td>77609</td>
+        <td>79111</td>
+        <td>823</td>
+        <td>31039</td>
+        <td>31862</td>
+    </tr>
+    <tr>
+        <th>60 - 64 anos</th>
+        <td>1770</td>
+        <td>80178</td>
+        <td>81948</td>
+        <td>935</td>
+        <td>30843</td>
+        <td>31778</td>
+    </tr>
+    <tr>
+        <th>65 - 69 anos</th>
+        <td>1845</td>
+        <td>84286</td>
+        <td>86131</td>
+        <td>918</td>
+        <td>30000</td>
+        <td>30918</td>
+    </tr>
+    <tr>
+        <th>70 - 74 anos</th>
+        <td>2204</td>
+        <td>98680</td>
+        <td>100884</td>
+        <td>991</td>
+        <td>33901</td>
+        <td>34892</td>
+    </tr>
+    <tr>
+        <th>75 - 79 anos</th>
+        <td>2961</td>
+        <td>110353</td>
+        <td>113314</td>
+        <td>1285</td>
+        <td>36743</td>
+        <td>38028</td>
+    </tr>
+    <tr>
+        <th>80 - 84 anos</th>
+        <td>3418</td>
+        <td>98602</td>
+        <td>102020</td>
+        <td>1203</td>
+        <td>31091</td>
+        <td>32294</td>
+    </tr>
+    <tr>
+        <th>85 - 89 anos</th>
+        <td>3191</td>
+        <td>66355</td>
+        <td>69546</td>
+        <td>983</td>
+        <td>19460</td>
+        <td>20443</td>
+    </tr>
+    <tr>
+        <th>90 ou mais anos</th>
+        <td>2909</td>
+        <td>33602</td>
+        <td>36511</td>
+        <td>570</td>
+        <td>8281</td>
+        <td>8851</td>
+    </tr>
+    <tr>
+        <th>Total</th>
+        <td>27659</td>
+        <td>892860</td>
+        <td>920519</td>
+        <td>11962</td>
+        <td>318600</td>
+        <td>330562</td>
+    </tr>
+    </table>
+    <p class="fonte"><span>fonte: dados <abbr title="Instituto Nacional de Estatística">INE</abbr> - censos 2011</span></p>
+    <p><span>Legenda:</span></p>
+    <ul>
+        <li>[1] não consegue efetuar a ação de ver</li>				
+	<li>[2] tem muita dificuldade em efetuar a ação de ver</li>
+    </ul>
+</div>
+<div id="chart3_div" style="width: 900px; height: 500px;"></div>
+<h3>Empregabilidade de pessoas com dificuldade para ver</h3>
+<p>Há um dado aparentemente surpreendente, ou talvez não, no Censos 2011 no que diz respeito à taxa de empregabilidade de pessoas com dificuldade para ver. As pessoas cegas, classificadas como pessoas que não conseguem efetuar a ação de ver, apresentam taxas de empregabilidade bastante superiores às pessoas com baixa visão, classificadas como pessoas com muita dificuldade para efetuar a ação de ver. No caso das pessoas cegas, a taxa de desemprego cifra-se nos 14% enquanto que no caso das pessoas com baixa visão, o número sobe para os 20%. Este último é, inclusivamente, igual à taxa de desemprego verificada na população que diz ter dificuldade na execução de, pelo menos, uma das 6 ações apresentadas.</p>
+<div id="chart4_div" style="width: 900px; height: 500px;"></div>
+<h3>Principais fontes de rendimento de pessoas com dificuldade para ver</h3>
+<p>A principal fonte de rendimento das pessoas com problemas graves de visão resulta da Pensão/Reforma. A verba proveniente da Pensão/Reforma representa 73,3% do rendimento para as pessoas cegas, classificadas no Censos como pessoas que não conseguem efetuar a ação de ver, e 63,6% para as pessoas com baixa visão. Pensões de reforma, trabalho e rendimentos provenientes diretamente do apoio familiar representam 91,6% do total de rendimentos. </p>
+<div id="chart5_div" style="width: 900px; height: 500px;"></div>
+<div class="table" style="width: 60%">
+    <table width="100%" summary="63,8% dos rendimentos das pessoas com dificuldades visuais graves é proveniente das pensões de reforma.">
+    <caption>Principais fontes de rendimento de pessoas <abbr title="Deficientes Visuais">DVs</abbr></caption>
+    <tr>
+        <th rowspan="2">Fonte de Rendimento</th>
+        <th colspan="2">Não consegue efetuar a ação</th>
+        <th colspan="2">Tem muita dificuldade em efetuar a ação</th>
+        <th colspan="2">Total</th>
+    </tr>
+    <tr>
+	<th><abbr title="Homens e Mulheres">HM</abbr></th>
+        <th><abbr title="Homens">H</abbr></th>
+        <th><abbr title="Homens e Mulheres">HM</abbr></th>
+        <th><abbr title="Homens">H</abbr></th>
+        <th><abbr title="Homens e Mulheres">HM</abbr></th>
+        <th><abbr title="Homens">H</abbr></th>
+    </tr>
+    <tr>
+        <th>Trabalho</th>
+        <td>3823</td>
+        <td>2287</td>
+        <td>167514</td>
+        <td>73987</td>
+        <td>171337</td>
+        <td>76274</td>
+    </tr>
+    <tr>
+        <th>Reforma/ Pensão</th>
+        <td>19800</td>
+        <td>7929</td>
+        <td>556138</td>
+        <td>192047</td>
+        <td>575938</td>
+        <td>199976</td>
+    </tr>
+    <tr>
+        <th>Subsidio de desemprego</th>
+        <td>304</td>
+        <td>163</td>
+        <td>22800</td>
+        <td>10492</td>
+        <td>23104</td>
+        <td>10655</td>
+    </tr>
+    <tr>
+        <th>Subsidio por acidente de trabalho ou doença profissional</th>
+        <td>86</td>
+        <td>60</td>
+        <td>2928</td>
+        <td>1645</td>
+        <td>3014</td>
+        <td>1705</td>
+    </tr>
+    <tr>
+        <th>Rendimento social de inserção</th>
+        <td>292</td>
+        <td>130</td>
+        <td>14532</td>
+        <td>4884</td>
+        <td>14824</td>
+        <td>5014</td>
+    </tr>
+    <tr>
+        <th>Outro subsídio temporário (doença, maternidade, etc.)</th>
+        <td>136</td>
+        <td>64</td>
+        <td>5359</td>
+        <td>2005</td>
+        <td>5495</td>
+        <td>2069</td>
+    </tr>
+    <tr>
+        <th>Rendimento da propriedade ou da empresa</th>
+        <td>103</td>
+        <td>46</td>
+        <td>3350</td>
+        <td>1239</td>
+        <td>3453</td>
+        <td>1285</td>
+    </tr>
+    <tr>
+        <th>Apoio social</th>
+        <td>335</td>
+        <td>146</td>
+        <td>5905</td>
+        <td>1778</td>
+        <td>6240</td>
+        <td>1924</td>
+    </tr>
+    <tr>
+        <th>A cargo da família</th>
+        <td>1636</td>
+        <td>561</td>
+        <td>76051</td>
+        <td>15439</td>
+        <td>77687</td>
+        <td>16000</td>
+    </tr>
+    <tr>
+        <th>Outro</th>
+        <td>500</td>
+        <td>237</td>
+        <td>19984</td>
+        <td>6076</td>
+        <td>20484</td>
+        <td>6313</td>
+    </tr>
+</table>
+</div>
+<h2>Referências:</h2>
+<p>INE. (2012). <em><a href="https://dl.dropbox.com/u/17293956/censos_pt_2011/20Censos2011_res_definitivos.pdf">Censos 2011 – Resultados Definitivos</a>.</em> Boletim destaque: Informação à comunicação social. Lisboa: INE.</p>
+</body>
+</html>
