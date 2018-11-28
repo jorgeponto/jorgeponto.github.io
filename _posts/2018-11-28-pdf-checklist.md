@@ -1,4 +1,8 @@
-# The Accessibility PDF Checker (Full Check)
+---
+layout: post
+title: The PDF Rules
+subtitle: The accessibility PDF Checker (Full Check)
+---
 
 The PDF Checker has the following options that can be selected under each of the categories listed:
 
