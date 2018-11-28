@@ -48,5 +48,6 @@ The PDF Checker has the following options that can be selected under each of the
 - Elements require alternate text
 - Appropriate heading nesting
 
---
-[[1](https://sds.cornell.edu/sites/sds/files/pdfs/PDF_Accessibility_Checker.pdf)]
+referências a explorar:
+
+- [[1](https://sds.cornell.edu/sites/sds/files/pdfs/PDF_Accessibility_Checker.pdf)]
