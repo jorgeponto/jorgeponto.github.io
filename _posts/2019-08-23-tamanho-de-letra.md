@@ -1,9 +1,24 @@
 ---
 layout: post
-title: Tamanho da letra em pt
-subtitle: Como determinar o tamanho da letra em pt usando o Word
+title: Como determinar o tamanho da letra de uma página Web?
+subtitle: Utilizar o Word como ferramenta
 ---
 
-Adicionar o requisito do selo - checklist "Conteúdos".
+No requisito 2.1 da [checklist "Conteúdos" do Selo de Usabilidade e Acessibilidade](https://selo.usabilidade.gov.pt/bronze.html) pode-se ler:
 
-Como calcular o tamanho da letra usado numa página Web, utilizando o Word como ferramenta. O Word converte automaticamente as unidades para pt.
+<blockquote>
+**2.1 O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos**
+  
+De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho de letra do texto que compõe o corpo do documento deverá ser, no mínimo, de 12 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário.
+
+</blockquote>
+
+Tamanho de letra de, no mínimo, 12 pontos? Como verificar o tamanho da letra do corpo da página Web?
+
+Basta entrar na página Web, selecionar o excerto de texto do corpo da página pretendido e copiar.
+
+De seguida, basta abrir um documento em branco do Word e colar no documento o excerto anteriormente copiado. Agora basta verificar na barra do Word o tamanho da letra indicado. A unidade usada pelo Word é 'pt'. Geralmente, no browser, as unidades de medida do tamanho da letra, dadas pela opção "Inspetor", é dada em 'px'. 
+
+O Word revela-se assim uma excelente ferramenta de determinação do tamanho da letra e de conversão das unidades de medida em 'pt'.
+
+
