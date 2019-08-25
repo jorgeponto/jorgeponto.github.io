@@ -37,3 +37,4 @@ O Word revela-se assim uma excelente ferramenta de determinação do tamanho da 
 |18|13.5|
 |19|14.25|
 |20|15|
+[Conversão px para pt]
