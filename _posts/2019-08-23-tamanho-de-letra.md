@@ -22,4 +22,20 @@ De seguida, basta abrir um documento em branco do Word e colar no documento o ex
 
 O Word revela-se assim uma excelente ferramenta de determinação do tamanho da letra e de conversão das unidades de medida em 'pt'.
 
-
+|:--:|:--:|
+|px|pt|
+|--|--|
+|8|6|
+|9|6.75|
+|10|7.5|
+|11|8.25|
+|12|9|
+|13|9.75|
+|14|10.5|
+|15|11.25|
+|16|12|
+|17|12.75|
+|18|13.5|
+|19|14.25|
+|20|15|
+|--|--|
