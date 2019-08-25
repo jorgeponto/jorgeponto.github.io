@@ -7,7 +7,8 @@ subtitle: Utilizar o Word como ferramenta
 No requisito 2.1 da [checklist "Conteúdos" do Selo de Usabilidade e Acessibilidade](https://selo.usabilidade.gov.pt/bronze.html) pode-se ler:
 
 <blockquote>
-**2.1 O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos**
+
+*2.1 O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos*
   
 De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho de letra do texto que compõe o corpo do documento deverá ser, no mínimo, de 12 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário.
 
