@@ -1,12 +1,31 @@
 # acessibilidade.gov.pt
 
+- Colocar form para validação com o accessmonitor
+
+
 
 ## DL n.º 83/2018, de 19 de outubro
-- Declaração de Acessibilidade
+- Entidades-alvo
+- Conteúdos-alvo e exceções
+- Prazos de implementação
+- Avaliação
+  - avaliação automática
+  - avaliação manual - a checklist "10 aspetos críticos de acessibilidade functional"
+  - testes com utilizadores
+- Checklists e compilação de evidências
+  - Checklist "10 aspetos críticos de acessibilidade funcional"
+  - Ficheiro de recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional"
+- Declaração de Acessibilidade e Usabilidade
+- Gerador automático da Declaração de Acessibilidade e Usabilidade
+- Publicação da Declaração e das evidências
+  - tornar público a declaração em https://www.exemplo.pt/acessibilidade/
+  - tornar público as evidências em htpps://www.exemplo.pt/acessibilidade/docs/
 
+## Selo de Usabilidade e Acessibilidade
+- Checklists 
 
 ## sítios Web relacionados
-- [Observatório Português de Acessibilidade Web]()
+- [Observatório Português da Acessibilidade Web](http://accessmonitor.acessibilidade.gov.pt/observatorio/)
 - [Usabilidade.gov.pt](https://www.usabilidade.gov.pt)
 - [Selo.usabilidade.gov.pt](https://selo.usabilidade.gov.pt)
 - [Selo.acessibilidade.gov.pt](https://selo.acessibilidade.gov.pt)
