@@ -1,6 +1,6 @@
 # acessibilidade.gov.pt
 
-- Colocar form para validação com o accessmonitor
+Colocar form para validação com o accessmonitor novo. [integrar form num widget html](form.html). Nota: Podem desenhar um logo para o AccessMonitor (pretende-se dar a imagem que o AccessMonitor é um Bot, assistente pessoal, que se expressa na 1ª pessoa).
 
 ## Acessibilidade de sítios Web e Aplicações Móveis
 - [DL n.º 83/2018, de 19 de outubro](http://acessibilidade.tk/acessibilidade/legisla%C3%A7%C3%A3o/not%C3%ADcias/2018/10/19/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis.html)
