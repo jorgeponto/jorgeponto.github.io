@@ -3,7 +3,9 @@ title: DL n.º 83/2018 – Declaração de Acessibilidade para sítios Web novos
 date: 13-09-2019
 ---
 
-De acordo com o DL n.º 83/2018, de 19 de outubro, a partir de 23 de setembro de 2019, todos os sítios Web públicos “novos” – ou seja, construídos depois de 23 de setembro de 2018 – precisam de ter uma Declaração de Acessibilidade. A hiperligação para a Declaração deve estar presente na primeira página do sítio Web. O texto da Declaração tem de ser publicado numa página do próprio sítio Web a que diz respeito. A legislação portuguesa referencia a diretoria /acessibilidade/ (i.e. algo como https://www.exemplo.pt/acessibilidade/).
+De acordo com o DL n.º 83/2018, de 19 de outubro, a partir de 23 de setembro de 2019, todos os sítios Web públicos “novos” – ou seja, construídos depois de 23 de setembro de 2018 – precisam de ter afixada uma Declaração de Acessibilidade. 
+
+A hiperligação para a Declaração deve estar presente na primeira página do sítio Web. O texto da Declaração tem de ser publicado numa página do próprio sítio Web a que diz respeito. A legislação portuguesa referencia a diretoria /acessibilidade/ (i.e. algo como https://www.exemplo.pt/acessibilidade/).
 
 Para a criação da Declaração de Acessibilidade a Equipa de Experiência Digital (EED) da AMA criou um Gerador que produz automaticamente a Declaração de Acessibilidade de acordo com os requisitos que a tornam "machine-readable" e o modelo adotado.
 
