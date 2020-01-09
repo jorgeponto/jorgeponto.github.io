@@ -3,9 +3,9 @@
 - Colocar form para validação com o accessmonitor
 
 ## Acessibilidade de sítios Web e Aplicações Móveis
-- DL n.º 83/2018, de 19 de outubro
-- Requisitos, Avaliação e Publicação
-- Gerador automático da Declaração de Acessibilidade e Usabilidade
+- [DL n.º 83/2018, de 19 de outubro](http://acessibilidade.tk/acessibilidade/legisla%C3%A7%C3%A3o/not%C3%ADcias/2018/10/19/dl-n-o-83-2018-acessibilidade-dos-sitios-web-e-das-aplicacoes-moveis.html)
+- [Requisitos, Avaliação e Publicação]()
+- [Gerador automático da Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create)
 <!--
 - Entidades-alvo
 - Conteúdos-alvo e exceções
