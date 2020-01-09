@@ -3,7 +3,7 @@
 Colocar form para validação com o accessmonitor novo. [integrar form num widget html](form.html). Nota: Podem desenhar um logo para o AccessMonitor (pretende-se dar a imagem que o AccessMonitor é um Bot, assistente pessoal, que se expressa na 1ª pessoa).
 
 Aviso: 
-Estamos a refrescar os conteúdos do presente sítio Web, usando por referência os conteúdos e as ferramentas do anterior sítio da Unidade ACESSO.
+Estamos a refrescar os conteúdos e as ferramentas que disponibilizamos no sítio Web.
 
 Se procura:
 
