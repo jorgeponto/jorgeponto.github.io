@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Submissão de validações</title>
+  <script>
+    function submitForm() {
+      let uri = document.getElementById("uri").value;
+      uri = uri.replace('http://', '');
+      uri = uri.replace('https://', '');
+      location.href = "http://accessmonitor.acessibilidade.gov.pt/amp/results/" + encodeURIComponent(uri);
+      return false;
+    }
+  </script>
+</head>
+
+<body>
+
+  <form style="background-color:#f6f6f6" id="accessmonitor" onsubmit="return submitForm();">
+    <fieldset style="border:2px solid #f6f6f6">
+      <legend style="font-size:150%;"><i class="fa fa-check-square-o" aria-hidden="true"></i> AccessMonitor (<abbr
+          title="Web Content Accessibility Guidelines" lang="en" xml:lang="en">WCAG</abbr> 2.0) <span>versão Beta</span></legend>
+      <label for="uri">Introduza o endereço de uma página:
+        <input type="text" id="uri" name="uri" placeholder="http://" value="" size="20" title="Endereço da página"
+          style="border:2px solid #496c9f">
+      </label>
+      <input type="hidden" name="cod_hack" value="™">
+
+      <button type="submit" class="btn btn-primary">
+        <i class="fa fa-check-square-o" aria-hidden="true"></i> Rever
+      </button>
+    </fieldset>
+  </form>
+
+</body>
+
+</html>
