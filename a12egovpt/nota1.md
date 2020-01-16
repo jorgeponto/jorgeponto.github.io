@@ -19,10 +19,10 @@ A Equipa de Experiência Digital da AMA, encontra-se neste momento a reconfigura
 
 Pode consultar:
 
-- a <a href=“http://accessmonitor.acessibilidade.gov.pt/amp/”>nova versão do validador de acessibilidade Web Accessmonitor</a>.
-- o <a href=“https://data.dre.pt/eli/dec-lei/83/2018/10/19/p/dre/pt/html”>DL n.º 83/2018, de 19 de outubro</a> - 
-- o <a href=“https://amagovpt.github.io/gerador/#create”>Gerador da Declaração de Acessibilidade Web</a>
-- as <a href=“https://acessibilidade.tk/wcag/wcag21-pt-PT.html#toc”>Diretrizes de Acessibilidade para Conteúdo Web (WCAG 2.1) - versão portuguesa</a>
+- a [nova versão do validador de acessibilidade Web Accessmonitor](http://accessmonitor.acessibilidade.gov.pt/amp/)
+- o [DL n.º 83/2018, de 19 de outubro](https://data.dre.pt/eli/dec-lei/83/2018/10/19/p/dre/pt/html) - requisitos de acessibilidade dos sítios web e das aplicações móveis de organismos públicos
+- o [Gerador da Declaração de Acessibilidade Web](https://amagovpt.github.io/gerador/#create)
+- as [Diretrizes de Acessibilidade para Conteúdo Web (WCAG 2.1) - versão portuguesa](https://acessibilidade.tk/wcag/wcag21-pt-PT.html#toc)
 
 ## usabilidade.gov.pt
 
