@@ -1,0 +1,38 @@
+/* Write some CSS below */
+body {
+	text-align: center;
+	font-family: verdana;
+	background-image: url("images/background.jpg");
+	color: white;
+	background-size: cover;
+}
+
+h1 {
+	font-size: 70px;
+	padding-top: 200px;
+	text-shadow: 2px 2px 0px grey;
+	margin-bottom: 15px;
+}
+
+p {
+	font-size: 25px;
+	opacity: 0.8;
+	text-shadow: 2px 2px 0px black;
+}
+
+a {
+	background-color: rgb(204, 0, 0);
+	padding:15px 20px 15px 20px;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	border-radius: 4px;
+}
+
+a:hover {
+	background-color: rgba(204, 0, 0, 0.7);
+}
+
+p:nth-child(4) {
+	margin-bottom: 60px;
+}
