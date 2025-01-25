@@ -7,7 +7,7 @@ lang: pt-PT
 
 sumário deste artigo:
 
-{{TOC}}
+{% toc %}
 
 ## Em síntese
 
