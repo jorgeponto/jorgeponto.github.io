@@ -2,7 +2,6 @@
 layout: post
 title: Contrastes para Texto e Não-Texto, o que diz a recomendação final das WCAG v2.1 do W3C
 date: 2025-01-25
-lang: pt-PT
 ---
 
 sumário deste artigo:
