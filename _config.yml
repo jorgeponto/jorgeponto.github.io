@@ -2,5 +2,3 @@ title: A12e
 description: O meu bloco de notas sobre acessibilidade digital
 theme: minima
 lang: pt-PT
-plugins:
-  - jekyll-toc
