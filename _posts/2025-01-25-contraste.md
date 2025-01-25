@@ -7,7 +7,7 @@ lang: pt-PT
 
 sumário deste artigo:
 
-{% toc %}
+<div id="toc"></div>
 
 ## Em síntese
 
