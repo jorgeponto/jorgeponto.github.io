@@ -6,7 +6,7 @@ date: 2025-01-25
 
 sumário deste artigo:
 
-<div id="toc"></div>
+<nav aria-roledescription="menu" id="toc"></nav>
 
 ## Em síntese
 
