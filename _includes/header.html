@@ -4,10 +4,11 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+    <p><a href="#main">saltar para o conteúdo</a></p>
     {%- if page.url == "/" -%}
     <h1 class="site-title">{{ site.title | escape }}</h1>
     {%- else -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <p><a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></p>
     {%- endif -%}
 
 
