@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contrastes para Texto e Não-Texto, o que diz a recomendação final das WCAG v2.1 do W3C
+title: Partilhar o ecrã no Microsoft Teams com a aplicação Zoom ativa em macOS
 date: 2025-01-25
 ---
 
